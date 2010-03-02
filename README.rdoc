@@ -1,1 +1,1 @@
-= jazrb is now jazz: http://github.com/smparkes/jazz/tree/
+= jazrb is now jazz: http://github.com/smparkes/jazz
